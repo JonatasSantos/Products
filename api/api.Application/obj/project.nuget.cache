@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RJtZ+bNDQ1U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jonatas\\Desktop\\sites-e-webapps\\Pessoais\\Products\\api\\api.Application\\api.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonatas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

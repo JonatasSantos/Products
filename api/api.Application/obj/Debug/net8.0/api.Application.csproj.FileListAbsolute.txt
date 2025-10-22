@@ -1,0 +1,15 @@
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\bin\Debug\net8.0\api.Application.deps.json
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\bin\Debug\net8.0\api.Application.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\bin\Debug\net8.0\api.Application.pdb
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\bin\Debug\net8.0\api.Domain.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\bin\Debug\net8.0\api.Domain.pdb
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.csproj.AssemblyReference.cache
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Appl.2D5C4CD9.Up2Date
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\refint\api.Application.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\api.Application.pdb
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Application\obj\Debug\net8.0\ref\api.Application.dll

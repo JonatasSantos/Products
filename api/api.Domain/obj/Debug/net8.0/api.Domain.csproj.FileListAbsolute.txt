@@ -1,0 +1,11 @@
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\bin\Debug\net8.0\api.Domain.deps.json
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\bin\Debug\net8.0\api.Domain.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\bin\Debug\net8.0\api.Domain.pdb
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.AssemblyInfoInputs.cache
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.AssemblyInfo.cs
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\refint\api.Domain.dll
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\api.Domain.pdb
+C:\Users\Jonatas\Desktop\sites-e-webapps\Pessoais\Products\api\api.Domain\obj\Debug\net8.0\ref\api.Domain.dll

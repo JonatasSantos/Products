@@ -1,0 +1,45 @@
+﻿using api.Domain.ProductEntity;
+using api.Domain.RepositoryInterface;
+using api.Infrastructure.DatabaseContext;
+using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace api.Infrastructure.RepositoryImplementation
+{
+    public class ProductRepository(AppDbContext context) : IProductRepository
+    {
+        public async Task AddAsync(Product product)
+        {
+            await context.Products.AddAsync(product);
+            await context.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(int id)
+        {
+            var product = await context.Products.FindAsync(id);
+            if (product != null)
+            {
+                context.Products.Remove(product);
+                await context.SaveChangesAsync();
+            }
+        }
+
+        public async Task<IEnumerable<Product>> GetAllAsync() => 
+            await Task.FromResult(context.Products.AsNoTracking().ToList());
+        
+
+        public async Task<Product?> GetByIdAsync(int id) =>
+         await context.Products.FindAsync(id);
+        
+
+        public async Task UpdateAsync(Product product)
+        {
+            context.Products.Update(product);
+            await context.SaveChangesAsync();
+        }
+    }
+}
