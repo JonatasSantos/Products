@@ -1,0 +1,23 @@
+<h2 mat-dialog-title>
+  {{ isChange ? 'Editar Produto' : 'Cadastrar Produto' }}
+</h2>
+<mat-dialog-content>
+  <mat-form-field>
+    <mat-label>Nome</mat-label>
+    <input matInput [(ngModel)]="data.name" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Preço</mat-label>
+    <input type="number" matInput [(ngModel)]="data.price" />
+  </mat-form-field>
+  <mat-form-field>
+    <mat-label>Estoque</mat-label>
+    <input type="number" matInput [(ngModel)]="data.stock" />
+  </mat-form-field>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancelar</button>
+  <button mat-button color="primary" [mat-dialog-close]="data" cdkFocusInitial>
+    {{ isChange ? 'Editar' : 'Cadastrar' }}
+  </button>
+</mat-dialog-actions>
